@@ -42,7 +42,7 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.version_label)
 
         # Fake app content
-        content = QLabel("✅ App is running normally.\nThis is v1.0.0 - Basic UI")
+        content = QLabel("✅ App is running normally.\n🆕 This is v2.0.0 - Dark Mode Added!")
         content.setStyleSheet("font-size: 14px; margin-top: 20px;")
         layout.addWidget(content)
 

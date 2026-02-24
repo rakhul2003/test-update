@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/YOUR_USERNAME/test-update/releases/download/v1.0.0/PrintDefectDetectorSetup.exe",
-  "release_notes": "Initial release."
+  "version": "2.0.0",
+  "download_url": "https://github.com/rakhul2003/test-update/releases/download/v2.0.0/PrintDefectDetectorSetup_v2.0.0.exe",
+  "release_notes": "v2.0.0 - Dark Mode Added! Performance improvements."
 }

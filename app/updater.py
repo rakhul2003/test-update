@@ -2,7 +2,7 @@
 import requests
 from packaging.version import Version
 
-CURRENT_VERSION = "1.0.0"
+CURRENT_VERSION = "2.0.0"
 
 # After you create your GitHub repo, update this URL:
 # https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/version.json
